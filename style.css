@@ -1,0 +1,31 @@
+body   {
+    background-color: rgb(121, 88, 240);
+}
+p{
+    text-align: center;
+    color: #FFFFFF;
+}
+strong{
+    color: #00ffff;
+}
+h1{
+    text-align: center;
+}
+body {
+
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
